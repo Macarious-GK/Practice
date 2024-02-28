@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kary testing pull from the terminal
+=======
+kary testing git pull from github
+>>>>>>> 7caa9b48f42f98c3d684b8035638da626cc337b5
