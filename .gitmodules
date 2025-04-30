@@ -1,0 +1,3 @@
+[submodule "testfolder"]
+	path = testfolder
+	url = https://github.com/Macarious-GK/Compiler.git
